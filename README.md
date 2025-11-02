@@ -72,6 +72,6 @@ This manual testing project demonstrates:
 
 👏 **Project Completed by: Suryance Raj
 
-📅 **Duration:** 5-7 days
+📅 **Duration:** 2-5 days
 
 
